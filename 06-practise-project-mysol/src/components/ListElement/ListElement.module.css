@@ -1,0 +1,7 @@
+.list-element {
+    margin: 0.3rem 0;
+    width: 100%;
+    padding: 0.2rem;
+    border: 1px solid grey;
+    font-weight: 700;
+}

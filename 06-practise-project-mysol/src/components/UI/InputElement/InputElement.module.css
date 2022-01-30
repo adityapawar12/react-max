@@ -1,0 +1,12 @@
+.input {
+    border: 1px solid grey;
+    width: 100%;
+    margin: 0.2rem auto;
+    padding: 0.2rem;
+}
+
+.label {
+    display: block;
+    margin: 0.1rem auto;
+    font-weight: 700;
+}
